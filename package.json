@@ -1,0 +1,26 @@
+{
+  "name": "fis-parser-react-tagjs",
+  "version": "0.0.2",
+  "description": "fis parser change jsx to js map path for seajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pokerII/fis-parser-react-tagjs.git"
+  },
+  "keywords": [
+    "fis",
+    "parser",
+    "react",
+    "jsx",
+    "js"
+  ],
+  "author": "pokerii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pokerII/fis-parser-react-tagjs/issues"
+  },
+  "homepage": "https://github.com/pokerII/fis-parser-react-tagjs"
+}
