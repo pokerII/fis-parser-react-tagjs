@@ -1,7 +1,7 @@
 {
-  "name": "fis-parser-react-tagjs",
-  "version": "0.0.2",
-  "description": "fis parser change jsx to js map path for seajs",
+  "name": "rake-parser-react-tagjs",
+  "version": "1.0.0",
+  "description": "A parser plugin for [fis](https://github.com/fis-dev/fis) to precompile [react](http://facebook.github.io/react/).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/pokerII/fis-parser-react-tagjs/issues"
   },
-  "homepage": "https://github.com/pokerII/fis-parser-react-tagjs"
+  "homepage": "https://github.com/pokerII/fis-parser-react-tagjs",
+  "dependencies": {
+    "react-tools": "~0.12.2"
+  }
+
 }
